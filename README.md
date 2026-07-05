@@ -21,6 +21,8 @@ BYOD (Bring Your Own Device) Devices:
 
 ✅ 160 devices - Successfully updated (online during deployment)
 ⏳ 818 devices - Pending updates (were offline, will auto-install when reconnected)
+
+
 Key points:
 
 The deployment follows the planned rollout schedule for GB and MB branches
