@@ -1,5 +1,4 @@
-# Tab-
-Information 
+
 Dear Team,
 I am pleased to inform you that the Digi Onboarding application (APK) has been successfully deployed on all tablet devices across the General Banking (GB) and Micro Banking (MB) branches, as per the provided deployment plan.
 
