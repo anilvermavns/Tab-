@@ -25,5 +25,4 @@ Key points:
 
 The deployment follows the planned rollout schedule for GB and MB branches
 Offline devices will automatically install the application upon reconnecting to the network
-BYOD users are advised to manually install updates when prompted on their devices
-Is there something specific you'd like to do with this repository or file? I can help you with:
+BYOD users are advised to manually install updates when prompted on their devices.
